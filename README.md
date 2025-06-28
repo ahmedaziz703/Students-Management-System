@@ -67,7 +67,7 @@
 ✍️ المؤلف
 
 Ahmed Aziz
-GitHub: (https://github.com/ahmedaziz703/)[@ahmedazizz703]
+GitHub: [@ahmedazizz703](https://github.com/ahmedaziz703/)
 
 ---
 
